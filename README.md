@@ -5,7 +5,6 @@
 **Estudante de Desenvolvimento de Sistemas | Assistente de Vendas na Selbetti**
 
 <h2></h2>
-
 <div>
   <h2> >> Sobre mim: </h2>
 </div>
@@ -21,7 +20,6 @@ Atualmente, possuo conhecimentos em:
 ✦ Desenvolvimento e execução de projetos no Visual Studio Code  
 
 <h2></h2>
-
 <div>
   <h2> >> Neste perfil, você vai encontrar: </h2>
 </div>
