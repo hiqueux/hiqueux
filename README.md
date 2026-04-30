@@ -12,18 +12,18 @@ Tenho grande interesse na área de tecnologia e estou sempre buscando evoluir me
 
 Atualmente, possuo conhecimentos em:
 
-* ✦ HTML, CSS e JavaScript
-* ✦ Banco de dados com SQL
-* ✦ Desenvolvimento e execução de projetos no Visual Studio Code
+✦ HTML, CSS e JavaScript  
+✦ Banco de dados com SQL  
+✦ Desenvolvimento e execução de projetos no Visual Studio Code  
 
 ---
 
 ## >> Neste perfil, você vai encontrar:
 
-* ✦ Projetos desenvolvidos durante meus estudos
-* ✦ Exercícios práticos e desafios
-* ✦ Evolução do meu aprendizado na programação
-* ✦ Experimentos e testes com novas tecnologias
+✦ Projetos desenvolvidos durante meus estudos  
+✦ Exercícios práticos e desafios  
+✦ Evolução do meu aprendizado na programação  
+✦ Experimentos e testes com novas tecnologias  
  
 ---
 
