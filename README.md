@@ -18,7 +18,7 @@ Atualmente, possuo conhecimentos em:
 
 ---
 
-## >> Neste perfil, você vai encontrar:
+** >> Neste perfil, você vai encontrar: **
 
 ✦ Projetos desenvolvidos durante meus estudos  
 ✦ Exercícios práticos e desafios  
