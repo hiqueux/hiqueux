@@ -24,10 +24,8 @@ Atualmente, possuo conhecimentos em:
   <h2> >> Neste perfil, você vai encontrar: </h2>
 </div>
 
-✦ Projetos desenvolvidos durante meus estudos  
-✦ Exercícios práticos e desafios  
-✦ Evolução do meu aprendizado na programação  
-✦ Experimentos e testes com novas tecnologias  
+✦ Evolução do meu aprendizado na programação
+✦ Exercícios práticos e desafios desenvolvidos durante meus estudos   
 
 
 *Passando mais tempo tentando entender o erro do que programando >_<*
