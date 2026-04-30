@@ -2,6 +2,7 @@
 
 **Estudante de Desenvolvimento de Sistemas | Assistente de Vendas na Selbetti**
 
+---
 
 ## >> Sobre mim
 
@@ -23,8 +24,7 @@ Atualmente, possuo conhecimentos em:
 ✦ Exercícios práticos e desafios  
 ✦ Evolução do meu aprendizado na programação  
 ✦ Experimentos e testes com novas tecnologias  
- 
----
+
 
 *Passando mais tempo tentando entender o erro do que programando >_<*
 
