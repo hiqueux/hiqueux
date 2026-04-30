@@ -1,5 +1,5 @@
 <div>
-  <h1> Opa, me chamo Henrique ¯\_(ツ)_/¯  </h1>
+  <h1> Opa, me chamo Henrique (◕‿◕)  </h1>
 </div> 
 
 **Estudante de Desenvolvimento de Sistemas | Assistente de Vendas na Selbetti**
