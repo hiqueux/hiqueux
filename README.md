@@ -2,7 +2,7 @@
   <h1> Konnichiwa, me chamo Henrique 希望  </h1>
 </div> 
 
-Estudante de Desenvolvimento de Sistemas | Assistente de Vendas na Selbetti
+**Estudante de Desenvolvimento de Sistemas | Assistente de Vendas na Selbetti**
 
 <h2></h2>
 <div>
