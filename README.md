@@ -2,7 +2,6 @@
 
 **Estudante de Desenvolvimento de Sistemas | Assistente de Vendas na Selbetti**
 
----
 
 ## >> Sobre mim
 
@@ -16,7 +15,7 @@ Atualmente, possuo conhecimentos em:
 ✦ Banco de dados com SQL  
 ✦ Desenvolvimento e execução de projetos no Visual Studio Code  
 
----
+
 
 ## >> Neste perfil, você vai encontrar:
 
