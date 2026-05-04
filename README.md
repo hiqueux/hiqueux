@@ -28,5 +28,6 @@ Atualmente, possuo conhecimentos em:
 
 ✦ Exercícios práticos e desafios desenvolvidos durante meus estudos   
 
+
 *Passando mais tempo tentando entender o erro do que programando >_<*
 
