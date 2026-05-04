@@ -1,8 +1,9 @@
 <div>
-  <h1> Konnichiwa, me chamo Henrique 希望  
-    
-  *Passando mais tempo tentando entender o erro do que programando >_<*</h1>
+  <h1> Konnichiwa, me chamo Henrique 希望 </h1>
 </div> 
+
+*Passando mais tempo tentando entender o erro do que programando >_<*
+
 
 **Estudante de Desenvolvimento de Sistemas | Assistente de Vendas na Selbetti**
 
