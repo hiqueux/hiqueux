@@ -2,9 +2,6 @@
   <h1> Konnichiwa, me chamo Henrique 希望 </h1>
 </div> 
 
-*Passando mais tempo tentando entender o erro do que programando >_<*
-
-
 **Estudante de Desenvolvimento de Sistemas | Assistente de Vendas na Selbetti**
 
 <h2></h2>
