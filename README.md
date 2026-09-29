@@ -55,12 +55,3 @@ Tenho grande interesse pela área de tecnologia e busco constantemente aprimorar
 ✦ MySQL
 
 ✦ XAMPP
-
-<h2></h2>
-<div>
-  <h2> >> Neste perfil, você vai encontrar: </h2>
-</div>
-
-✦ Exercícios práticos e desafios desenvolvidos durante meus estudos   
-
-✦ Evolução do meu aprendizado na programação
