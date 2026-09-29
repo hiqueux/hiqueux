@@ -13,11 +13,12 @@ Sou estudante da 3ª série do Ensino Médio na escola de referência SESI/SENAI
 
 Tenho grande interesse na área de tecnologia e estou sempre buscando evoluir meus conhecimentos na prática.
 
-Atualmente, possuo conhecimentos em:
+<h2></h2>
+<div>
+  <h2> >> Domínio nas linguagens: </h2>
+</div>
 
-✦ HTML, CSS e JavaScript  
-✦ Banco de dados com SQL  
-✦ Desenvolvimento e execução de projetos no Visual Studio Code  
+✦ Backend: <img src="[https://github.com](https://camo.githubusercontent.com/4bfedc0a9eaaaa552754d70628c06a34b495a071d9af1b03f67bd41f9d35d565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c2d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)" width="300">
 
 <h2></h2>
 <div>
