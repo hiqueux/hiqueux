@@ -25,16 +25,10 @@ Tenho grande interesse pela área de tecnologia e busco constantemente aprimorar
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
 
-### Backend
+### Backend & Banco de Dados
 
 <div>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-</div>
-
-### Banco de Dados
-
-<div>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
